@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MeLocutor
-- 👀 I’m interested in Nerd Culture
-- 🌱 I’m currently learning Graphic Design
-- 💞️ I’m looking to c
+- 👀 I’m interested in Nerd Culture & Product Design
 
 <!---
 MeLocutor/MeLocutor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
